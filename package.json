@@ -1,0 +1,22 @@
+{
+  "name": "konnichiwa",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tamaki88888888/konnichiwa.git"
+  },
+  "keywords": [
+    "konnichiwa"
+  ],
+  "author": "kotamaki <koukoukokoko@icloud.com> (https://okinawanpizza.hatenablog.com/)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tamaki88888888/konnichiwa/issues"
+  },
+  "homepage": "https://github.com/tamaki88888888/konnichiwa#readme"
+}
